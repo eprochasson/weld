@@ -186,7 +186,8 @@ button {  width: auto; overflow: visible; }
 
 body {
 	padding: 10px;
-	background: #f8f8f8 url('https://github.com/hij1nx/weld/raw/master/documentation-assets/header.png') no-repeat;
+	background: #f8f8f8 url('https://github.com/hij1nx/weld/raw/gh-pages/documentation-assets/header.jpg') no-repeat;
+  												 
 }
 
 #logo {
